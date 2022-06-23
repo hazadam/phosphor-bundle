@@ -1,0 +1,13 @@
+###> dev ###
+/.dev
+/.idea
+docker-compose.yml
+composer.lock
+/vendor
+.phpunit.result.cache
+.php-cs-fixer.cache
+###< dev ###
+
+###> symfony ###
+/var
+###< symfony ###
